@@ -1,4 +1,4 @@
-## Hi there 👋
+![Passionate Learner](https://github.com/SachinthaRajapaksha/SachinthaRajapaksha/blob/main/banner.png)
 
 <h1 align="center">Hi 👋, I'm Sachintha Rajapaksha</h1>
 <h3 align="center">A passionate Data Scientist from Sri Lanka</h3>
